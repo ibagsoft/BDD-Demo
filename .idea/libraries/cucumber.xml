@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="cucumber">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../cucumber_libs/cucumber-core-1.2.0-20140808.140619-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../cucumber_libs/cucumber-java-1.2.0-20140808.140647-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../cucumber_libs/cucumber-junit-1.2.0-20140808.140626-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../cucumber_libs/cucumber-jvm-deps-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../cucumber_libs/cucumber-pro-1.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../cucumber_libs/gherkin-2.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../cucumber_libs/gherkin-jvm-deps-1.0.1-20120817.165657-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../cucumber_libs/cucumber-jvm-deps-1.0.3-sources.jar!/cucumber/deps" />
+    </SOURCES>
+  </library>
+</component>
